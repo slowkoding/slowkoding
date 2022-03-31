@@ -1,6 +1,6 @@
 # SlowKoding
 
-<a href="https://hits.sh/slowkoding.github.io/"><img alt="Hits" src="https://hits.sh/slowkoding.github.io.svg?view=today-total&color=F6DFEB&labelColor=E4BAD4"></a>
+<a a href="https://hits.sh/github.com/slowkoding/"><img alt="Hits" src="https://hits.sh/github.com/slowkoding.svg?view=today-total&color=F6DFEB&labelColor=E4BAD4"></a>
 
 남들보다 늦게 프로그래밍을 시작했지만 실력은 뒤지지 않기 위해 노력하는 개발자입니다.
 
